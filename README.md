@@ -2,7 +2,7 @@
 ## Описание
 Программный продукт предназначен для построения и отображения плана сети.
 - **Технологический стек:** Java, javafx.
-- [Проект]
+- [Проект](https://github.com/konyakovaangelina/EditorPlaneNetwork/releases/download/v1.0.0/EditorNetworkPlan.zip)
 - **Статус**: 1.1
 
 
